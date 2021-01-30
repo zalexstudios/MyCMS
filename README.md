@@ -11,3 +11,5 @@
 * Built-in form validators, admin list generators etc.
 * App installer
 * On-line: http://fast-cms.pl
+Перевести на английский и русский язык!
+Доработать css админки
